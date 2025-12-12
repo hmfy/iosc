@@ -4,7 +4,8 @@
 ios日历订阅，长期更新：
 | 名称       | 订阅链接                                                                         | 说明                                                               |
 |----------- |----------------------------------------------------------------------------------|--------------------------------------------------------------------|
-|  标准节假日 |  https://raw.githubusercontent.com/hmfy/iosc/refs/heads/main/jie_jia_ri.ics      |                                                                    |
+|  标准节假日 |  https://raw.githubusercontent.com/hmfy/iosc/refs/heads/main/jie_jia_ri.ics  
+https://hub.gitmirror.com/raw.githubusercontent.com/hmfy/iosc/refs/heads/main/jie_jia_ri.ics|                                                                    |
 |  补充节假日 |  https://raw.githubusercontent.com/hmfy/iosc/refs/heads/main/jie_jia_ri_pro.ics  | 父亲节，母亲节，愚人节，腊八，小年，教师节，感恩节，万圣节，圣诞节...... |
 |  老黄历     |  https://raw.githubusercontent.com/hmfy/iosc/refs/heads/main/huang_li.ics        |  忌，宜...... |                                        
 |  24节气     |  https://raw.githubusercontent.com/hmfy/iosc/refs/heads/main/jie_qi.ics          | |
